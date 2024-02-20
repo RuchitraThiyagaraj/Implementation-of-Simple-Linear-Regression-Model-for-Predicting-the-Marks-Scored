@@ -10,8 +10,10 @@ To write a program to predict the marks scored by a student using the simple lin
 ## Algorithm
 1. Import the neccessary libraries 
 2. Read the csv file using pd.read_csv
-3. 
-4. 
+3. Seperate the independent from the dependent values
+4. Split the data
+5. Create a regression model
+6. Find the MSE , MAE, RMSE.
 
 ## Program:
 ```
